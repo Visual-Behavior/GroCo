@@ -1,6 +1,6 @@
 # GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth
 
-This repository contains the inference code for the GroCo method (ECCV24).
+This repository contains the inference code for the [GroCo paper](https://arxiv.org/abs/2409.14850) (ECCV24).
 
 ## Example
 
